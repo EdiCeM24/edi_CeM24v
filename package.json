@@ -1,0 +1,23 @@
+{
+  "name": "edi_cem24",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src --verbose",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/EdiCeM24.git"
+  },
+  "author": "Edi_CeM24 Marcus Edidiong Cletus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/EdiCeM24/issues"
+  },
+  "homepage": "https://github.com/github.com/EdiCeM24#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
